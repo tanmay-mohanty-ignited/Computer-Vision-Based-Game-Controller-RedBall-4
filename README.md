@@ -13,7 +13,8 @@ Setup :
 5. Run the RedBall.py and give access to your WebCam, until your camera feed is not visible, with a coloured skeleton on your body
 6. Sit in front of the camera and position your upper body straight in front of camera.
 7. Now open the game by clicking its window and control the game, as per the control instruction mentioned in the documentation
-8. For a demo, go to the youtube video link
+8. Press q to exit the pose detection program anytime.
+9. For a demo, go to the youtube video link
 
 ENJOY THE GAME !
 #DontTouchTheKeyboard :)
