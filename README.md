@@ -5,6 +5,7 @@ Play the online version at https://www.gamepix.com/play/red-ball
 Video Link : https://youtu.be/qBx-1Z10TxA
 
 Documentation: https://docs.google.com/document/d/1fJmShcL_dDjS8tVIZuR4D3bMr7z_0GCuXr1MTspGjVM/edit?usp=sharing
+Download all the three libraries required, as mentioned in the references, at the end of documentation (OpenCV, Mediapipe, Pynput)
 
 Setup :
 1. Download both the files, PoseModule.py and RedBall.py and save then in the same folder.
